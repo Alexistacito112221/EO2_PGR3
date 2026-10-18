@@ -16,10 +16,4 @@ Editor sencillo hecho con Java Swing. Permite crear documentos, abrir archivos y
 - `VentanaEditor`: muestra la ventana y controla los botones y menus.
 - `ArchivoDAO`: lee y guarda archivos TXT y RTF.
 
-## Abrir en NetBeans
 
-1. Abre NetBeans y selecciona **File > Open Project**.
-2. Selecciona la carpeta que contiene este `pom.xml`.
-3. Ejecuta el proyecto. La clase principal es `com.editortexto.EditorTexto`.
-
-Se necesita Java 11 o posterior.
